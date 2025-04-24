@@ -1,0 +1,42 @@
+body {
+    background-color: #111;
+    font-family: 'Arial', sans-serif;
+    color: white;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  video {
+    width: 60%;
+    max-width: 480px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border: 3px solid #e98b8b;
+    box-shadow: 0 0 15px #e98b8b;
+  }
+  
+  .buttons {
+    margin-top: 15px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    background-color: #e98b8b;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  marquee {
+    margin-top: 20px;
+    color: yellow;
+    font-weight: bold;
+  }
